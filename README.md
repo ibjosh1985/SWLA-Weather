@@ -12,8 +12,12 @@ AllStarLink and HamVOIP repeater nodes.
 - systemd service
 - 24/7 safe operation
 
+like the script buy me a coffee https://buymeacoffee.com/kc5jmj
+
+
 ## Install
 ```bash
 git clone https://github.com/ibjosh1985/swla-weather.git
 cd swla-weather-alert
 sudo ./install_swla.sh
+
